@@ -113,4 +113,6 @@ and **not intended for public reuse, redistribution, or modification.**
 
 If you are a recruiter, collaborator, or portfolio reviewer, feel free to explore the live site to see **this project’s real-world performance and design quality**.
 
----
+---  
+
+ 
